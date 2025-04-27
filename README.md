@@ -7,7 +7,7 @@ Welcome to WaterCoFire's GitHub homepage. I share some of my interesting project
 I'm a very helpful person. If you need a little help with any of the following, I'd be happy to oblige:
 
 - Getting Started with Rubik's Cubes, or CFOP Learning
-- IELTS & Academic English (I got Overall Band 8.0 in IELTS & 9.0 in BOTH Listening and Reading!)
+- IELTS & Academic English (I got IELTS Overall Band 8.0 & 9.0 in BOTH Listening and Reading!)
 - Shanghai travel guide
 - Having too much money and always struggling to spend it
 
@@ -17,7 +17,7 @@ I am more than happy to assist you with any questions you may have about your pr
 
 ### Personal Honours
 
-- Ranked **#1** in DIICSU Computer Science
+- Ranked **#1** in DIICSU Computer Science Class of 2026 (by average weighted scores of all courses)
 - 2006 Time Magazine _Person of the Year_
 - 2008 "Moving China" Special Award Recipient
 - 2019 United Nations "Champions of the Earth Award" Recipient
